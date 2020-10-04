@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844562455596",
+    "firebase_url": "https://foodorder-25a0a.firebaseio.com",
+    "project_id": "foodorder-25a0a",
+    "storage_bucket": "foodorder-25a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844562455596:android:2547fa52f2db5ee8e5c589",
+        "android_client_info": {
+          "package_name": "com.example.restuarantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844562455596-2r5tvpciu71tk93h4od9228k3g31o7s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restuarantapp",
+            "certificate_hash": "3e6b9fe31e9460e529b02ba0d12b9e31503eafce"
+          }
+        },
+        {
+          "client_id": "844562455596-svh15hvvgr5d04l78rh5tqvl4a07vnge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEKiZz1BPazkPCEQq3CawEefo5z-6q64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844562455596-svh15hvvgr5d04l78rh5tqvl4a07vnge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
